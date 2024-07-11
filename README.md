@@ -24,3 +24,4 @@ Sou Estudante de Engenharia de software no Unisenai , e Hoje estou atuando como 
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCoene&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DaviCoene&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+<img src="Software.gif" width = "350px" alt="">
