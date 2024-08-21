@@ -25,3 +25,4 @@ Sou Estudante de Engenharia de software no Unisenai , e Hoje estou atuando como 
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DaviCoene&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
+  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
