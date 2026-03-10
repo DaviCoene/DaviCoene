@@ -1,10 +1,6 @@
 ## Eai Tudo bem? 👋
 
-
-
-
-Sou Estudante de Engenharia de software no Unisenai , e Hoje estou atuando como aprendiz em Cybersistemas na Bosch!😁❤
-
+Sou Engenheiro de software, Estou Cursando Pós em Engenharia de Machine Learning na FIAP e Hoje estou atuando como Meio-Oficial na Bosch!😁❤
 
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -14,11 +10,9 @@ Sou Estudante de Engenharia de software no Unisenai , e Hoje estou atuando como 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40" height="40"/>&nbsp;
   
-  
 </div>
 
 ---
-
 
 <div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCoene&show_icons=true&theme=bear&count_private=true"/>
